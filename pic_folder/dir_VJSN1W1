@@ -1,0 +1,10 @@
+/var/www/html/
+
+
+
+
+grep 'A temporary password is generated for root@localhost' /var/log/mysqld.log |tail -1 root@localhost: C/!yAQZqv4<
+
+
+
+truedigitalhosting.in
